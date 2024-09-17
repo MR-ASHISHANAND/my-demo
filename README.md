@@ -1,3 +1,3 @@
 # my-demo
 This is my first git repository  
-Author - Ashish Anand
+Author - Ashish (hello github.in)
